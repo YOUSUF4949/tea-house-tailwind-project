@@ -5,4 +5,7 @@ module.exports = {
       extend: {},
     },
     plugins: [],
+    fontFamily: {
+        sans: ['Roboto', 'sans-serif'], // Add your Google Font here
+      },
   }
